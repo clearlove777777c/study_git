@@ -7,6 +7,7 @@ public class Main {
         System.out.println("git2");
         System.out.println("git3");
         System.out.println("git host-fix git1");
+        System.out.println("git host-fix test");
     }
 
 }
